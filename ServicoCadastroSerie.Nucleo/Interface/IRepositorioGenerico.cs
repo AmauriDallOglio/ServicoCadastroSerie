@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ServicoCadastroSerie.Nucleo.Interface
+﻿namespace ServicoCadastroSerie.Nucleo.Interface
 {
     public interface IRepositorioGenerico<T>
     {
