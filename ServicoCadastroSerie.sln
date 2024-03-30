@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicoCadastroSerie", "ServicoCadastroSerie\ServicoCadastroSerie.csproj", "{ACF8A7A0-66F2-4810-A1B0-63A10FE445C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicoCadastroSerie.Nucleo", "ServicoCadastroSerie.Nucleo\ServicoCadastroSerie.Nucleo.csproj", "{9D97BA73-8C2F-48BB-AD1B-489DB6084964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF8A7A0-66F2-4810-A1B0-63A10FE445C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF8A7A0-66F2-4810-A1B0-63A10FE445C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF8A7A0-66F2-4810-A1B0-63A10FE445C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF8A7A0-66F2-4810-A1B0-63A10FE445C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D97BA73-8C2F-48BB-AD1B-489DB6084964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D97BA73-8C2F-48BB-AD1B-489DB6084964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D97BA73-8C2F-48BB-AD1B-489DB6084964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D97BA73-8C2F-48BB-AD1B-489DB6084964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69268474-CC67-43E0-965D-8048038AA758}
+	EndGlobalSection
+EndGlobal
